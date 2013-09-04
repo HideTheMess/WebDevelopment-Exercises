@@ -1,5 +1,0 @@
-This app is trying to use the 'figaro' gem, so please remember to run the following on Rails bash:
-rails generate figaro:install
-
-Try to implement it by reading the following, or Googling:
-https://github.com/laserlemon/figaro
