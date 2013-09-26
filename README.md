@@ -17,9 +17,3 @@
 + [**Rails Lite**][rails-lite]
 
 [rails-lite]: w4d5/rails_lite
-
-## JavaScript: Server-side
-### jQuery
-+ [**Snake**][snake]
-
-[snake]: w6d3/snake
