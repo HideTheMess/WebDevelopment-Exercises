@@ -1,4 +1,4 @@
-# App Academy: Selected Coursework
+# Web Development Exercises Completed
 
 ## Ruby on Rails: Client-side
 ### Ruby
