@@ -6,11 +6,6 @@
 
 [hangman]: w1d4/hangman.rb
 
-### SQL
-+ [**SQL Zoo**][sql_zoo]
-
-[sql_zoo]: w3d1
-
 ### ActiveRecord
 + [**Building ActiveRecord-Lite**][build-your-own-ar]
 + [**Reimplement attr_accessor**][new_attr_accessor]
@@ -28,8 +23,3 @@
 + [**Snake**][snake]
 
 [snake]: w6d3/snake
-
-### Backbone.js
-+ [**Todo App**][todo_app]
-
-[todo_app]: w6we/TodoApp
